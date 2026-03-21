@@ -1,10 +1,11 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+###
+# <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
+# <div align="center">
+ # <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+ # <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
@@ -49,4 +50,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 ###
